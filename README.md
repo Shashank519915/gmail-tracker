@@ -54,7 +54,7 @@ Extensions > Apps Script
 ```
 
 > **Screenshot — Opening Apps Script from the menu**
-> <img width="480" height="302" alt="Extensions > Apps Script menu" src="https://github.com/user-attachments/assets/8e593caa-e8f9-48fa-9f24-7a02abd79f5d" />
+> <img width="480" height="302" alt="Extensions - Apps Script menu" src="https://github.com/user-attachments/assets/8e593caa-e8f9-48fa-9f24-7a02abd79f5d" />
 
 ---
 
@@ -72,7 +72,7 @@ Delete any existing code in `Code.gs` and paste the contents of `Code.gs` from t
 Click **Deploy** in the top-right corner, then select **New deployment**.
 
 > **Screenshot — Deploy > New deployment**
-> <img width="480" height="343" alt="Deploy > New deployment" src="https://github.com/user-attachments/assets/20a8da7e-7f17-473b-a84c-5b9017ac4ca2" />
+> <img width="480" height="343" alt="Deploy - New deployment" src="https://github.com/user-attachments/assets/20a8da7e-7f17-473b-a84c-5b9017ac4ca2" />
 
 Configure the deployment as follows:
 
