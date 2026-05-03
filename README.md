@@ -5,7 +5,7 @@ A lightweight email open-tracking system built with a single HTML file and a Goo
 No third-party services. No subscriptions. Runs entirely on your own Google account.
 
 > <img width="700" height="373" alt="Tracker HTML UI" src="https://github.com/user-attachments/assets/22cf5b1c-c9b2-41ff-a346-fb8d2c45bd87" />
-> <img width="800" height="425" alt="Google Sheets Tracker Final" src="https://github.com/user-attachments/assets/cd07b958-57b3-46d8-8cff-80f0aa68db23" />
+> <img width="700" height="372" alt="Google Sheets Tracker Final" src="https://github.com/user-attachments/assets/cd07b958-57b3-46d8-8cff-80f0aa68db23" />
 
 
 ---
