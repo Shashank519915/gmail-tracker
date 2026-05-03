@@ -107,7 +107,7 @@ Copy this URL.
 Open `tracker.html` in a text editor. Find this line:
 
 ```javascript
-const webAppUrl = "https://google.com";
+const webAppUrl = "https://script.google.com";
 ```
 
 Replace the placeholder with your web app URL:
